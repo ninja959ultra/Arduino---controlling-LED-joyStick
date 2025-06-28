@@ -11,4 +11,5 @@
 
 
 # Picture and video:
-[img]()
+![img](Arduino_project_controlling_LEDs_joyStick_PART1.jpeg)
+![img]()
